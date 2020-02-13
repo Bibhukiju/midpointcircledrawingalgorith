@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1581598566 source:d:\apex\midpointcirledrawingalgorithm\main.cpp
+	<stdio.h>
+	<graphics.h>
+
